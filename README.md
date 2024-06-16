@@ -7,7 +7,7 @@ Frontend Developer
 I'm an aspiring developer passionate about web development. Since March 2023, I have been self-studying programming, and from November 2023, I enrolled in Hexlet's programming school, successfully graduating in May 2024.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [ilya.rudenko.2105@mail.ru](mailto:ilya.rudenko.2105@mail.ru)
+* ✉️  You can contact me at [Telegram](https://t.me/SonFortune) or [ilya.rudenko.2105@mail.ru](mailto:ilya.rudenko.2105@mail.ru)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting proposals or questions, feel free to reach out to me.
 
@@ -22,3 +22,5 @@ I'm an aspiring developer passionate about web development. Since March 2023, I 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ilushacomeback" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+

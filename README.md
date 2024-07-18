@@ -27,5 +27,6 @@ I'm an aspiring developer passionate about web development. Since March 2023, I 
 
 <a href="http://www.github.com/ilushacomeback"><img src="https://github-readme-stats.vercel.app/api?username=ilushacomeback&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="ilushacomeback's GitHub stats" /></a>
 
+<a href="https://leetcode.com/u/ilushacomeback/"><img src="https://leetcard.jacoblin.cool/ilushacomeback?border=0&radius=20" /></a>
+
 <a href="https://www.codewars.com/users/ilushacomeback"><img src="https://www.codewars.com/users/ilushacomeback/badges/large" alt="ilushacomeback's CodeWars stats" /></a>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?ilushacomeback=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
